@@ -13,6 +13,7 @@ create table users(id int not null auto_increment,username varchar not null, pas
 create table products(id int not null auto_increment, A int, B int, C int, D int, primary key(id));
 ```
 3. Put a secret key in config.json.
-4. ```
+4.
+```
 npm start
 ```
