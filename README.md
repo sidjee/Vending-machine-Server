@@ -1,7 +1,7 @@
 # Vending-machine-Server
 
 This is a vending machine server which will keep the record of the items available in the vending machine.
-This is a nodejs server using mysql backend
+Backend used is MySQL
 
 1. Add a mypass.js file in the parent directory of this directory which will contain:-
 ```
